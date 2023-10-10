@@ -15,24 +15,31 @@ Dentro desta pasta, você encontrará diversos exercícios práticos que desenvo
 :collision:Tabuleiro de Damas (HTML):
 
 Desenvolvi um tabuleiro de damas usando apenas tags HTML.
+
 :collision:Tabela do Brasileirão (HTML):
 
 Criei uma tabela contendo os 6 primeiros times das séries A e B do Campeonato Brasileiro. Cada time é representado com seu brasão, posição, pontos, vitórias, empates e derrotas.
+
 :collision:Times do Brasileirão (HTML):
 
 Apresentei os 16 times da série A com breves histórias e adicionei hiperlinks para os times da série B, que se abrem em novas abas, junto com seus brasões.
+
 :collision:Teste de Hiperlinks (HTML):
 
 Realizei testes com hiperlinks para garantir uma navegação suave no site.
+
 :collision:Curriculum (HTML com Form):
 
 Criei um modelo de currículo utilizando formulários em HTML.
+
 :collision:Testes com Bootstrap:
 
 Explorei as funcionalidades do Bootstrap, testando diferentes componentes e estilos.
+
 :collision:Perfil Pessoal (Bootstrap):
 
 Desenvolvi um modelo de perfil pessoal usando o framework Bootstrap.
+
 :collision:Site de Episódios do Mortal Kombat Legacy (HTML e CSS):
 
 Utilizei todo o conhecimento adquirido até o momento para criar um site dedicado aos episódios do Mortal Kombat Legacy, incorporando elementos de HTML e CSS para uma experiência visual atraente.
