@@ -5,9 +5,6 @@ Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma variedade de ex
 
 
 
-## Estrutura do Repositório
-
-
 ## Pasta de Arquivos de Estudos e Exercícios
 
 Dentro desta pasta, você encontrará diversos exercícios práticos que desenvolvi para aprimorar minhas habilidades em HTML, CSS e Bootstrap.
