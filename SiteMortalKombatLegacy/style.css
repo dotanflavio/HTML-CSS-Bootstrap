@@ -1,0 +1,49 @@
+h1{
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    color: rgb(250, 3, 3);
+}
+.sino{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(250, 0, 0);
+    text-align: center;
+}
+body{
+    background-image: url(MK.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-color: rgb(95, 91, 91);
+
+}
+
+.elen{
+    font-size: larger;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-style: italic;
+}
+
+#dir{
+    font-style: italic;
+    font-size: x-small;
+    color: rgb(0, 238, 255);
+    text-align: justify;
+
+}
+
+fieldset{
+    margin: 0 auto;
+    border-radius: 20px;
+    border-color: blue;
+    width: 40%;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: rgb(38, 0, 255);
+    background-color: rgb(8, 252, 28);
+}

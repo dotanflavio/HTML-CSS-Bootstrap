@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <title>Curriculum Vitae</title>
+    </head>
+       <style>
+            fieldset{
+                margin: 0 auto;
+                width: 40%;
+                border: solid navy;
+                border-radius: 20px;
+                background-color: aqua;
+            }
+       </style>
+    <body>
+        <h1 align="center"><font color="navy">Curriculum Vitae</font></h1>
+        <fieldset>
+            <form method="get">
+                Insira sua foto <input type="file" name="foto"/><br><br>
+                <br><br>
+                <h2><font color="navy">Nome Completo</font><input type="text" size="100"/></h2>
+                Endereço <input type="text" size="70"/> 
+                    <label>CEP </label>
+                    <input type="cep" name="cep" placeholder="xxxxx-xxx" size="10"/><br><br>
+                Cidade <input type="text" size="21"/>
+                UF <select name="UF" size="1">
+                    <option>PB</option>
+                    <option>PR</option>
+                    <option>PE</option>
+                    <option>BA</option>
+                    <option>RS</option>
+                    <option>RN</option>
+                </select>
+                <label>Cel</label>
+                <input type="cel" name="cel" placeholder="(xx) xxxxx-xxxx" size="15"/>
+                <label>Email</label>
+                <input type="email" name="email" placeholder="nome@email.com" size="25"/><br><br>
+                Sexo<input type="radio" name="sexo" value="M"/>
+                    Masculino <input type="radio" name="sexo" value="F"/> Feminino
+
+                <p>
+                
+            <h2><font color="navy">Objetivo</font></h2>
+            <textarea rows="7" cols="100"></textarea><br><br>
+
+            <h2><font color="navy">Formação</font></h2>
+            <textarea rows="7" cols="100" placeholder="[Nome da Escola],[Cidade],[Estado]"></textarea><br><br>
+
+            <h2><font color="navy">Experiência</font></h2>
+            <br>
+            Cargo<input type="text" size="5"> Empresa<input type="text" size="7">
+            <label>De</label>
+            <input type="data" name="data" placeholder="mm/aaaa" size="4"/>
+            <label>Até</label>
+            <input type="data" name="data" placeholder="mm/aaaa" size="4"/>
+            <p>
+            <textarea rows="5" cols="100" placeholder="Forneça um breve resumo de suas principais responsabilidades."></textarea>
+            <p>
+                Cargo<input type="text" size="5"> Empresa<input type="text" size="7">
+                <label>De</label>
+                <input type="data" name="data" placeholder="mm/aaaa" size="4"/>
+                <label>Até</label>
+                <input type="data" name="data" placeholder="mm/aaaa" size="4"/>
+                <p>
+                <textarea rows="5" cols="100" placeholder="Forneça um breve resumo de suas principais responsabilidades."></textarea>    
+
+            <p>
+            <h2><font color="navy">Idiomas</font></h2>
+            <input type="checkbox" name="idiomas" value="s"/>Inglês
+            <input type="checkbox" name="idiomas" value="s"/>Espanhol
+            <input type="checkbox" name="idiomas" value="s"/>Alemão
+            <input type="checkbox" name="idiomas" value="s"/>Japonês
+            <input type="checkbox" name="idiomas" value="s"/>Outro <input type="text" size="7" placeholder="Qual?"/>
+            
+
+            <p>
+            <h2><font color="navy">Informações Adicionais</font></h2>
+            <textarea rows="5" cols="100" placeholder="Inclua prêmios, certificados, cursos complementares e intercambio."></textarea>
+                
+            <p>
+            <input type="submit" name="enviar" value="Enviar"/>
+            <input type="reset" name="limpar" value="Limpar"/>
+            </form>
+        </fieldset>
+    </body>
+</html>
