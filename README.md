@@ -8,51 +8,34 @@ Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma variedade de ex
 ## Estrutura do Repositório
 
 
-## 1. Pasta de Arquivos de Estudos e Exercícios
+## Pasta de Arquivos de Estudos e Exercícios
 
 Dentro desta pasta, você encontrará diversos exercícios práticos que desenvolvi para aprimorar minhas habilidades em HTML, CSS e Bootstrap.
 
-Tabuleiro de Damas (HTML):
+:collision:Tabuleiro de Damas (HTML):
 
 Desenvolvi um tabuleiro de damas usando apenas tags HTML.
-Tabela do Brasileirão (HTML):
+:collision:Tabela do Brasileirão (HTML):
 
 Criei uma tabela contendo os 6 primeiros times das séries A e B do Campeonato Brasileiro. Cada time é representado com seu brasão, posição, pontos, vitórias, empates e derrotas.
-Times do Brasileirão (HTML):
+:collision:Times do Brasileirão (HTML):
 
 Apresentei os 16 times da série A com breves histórias e adicionei hiperlinks para os times da série B, que se abrem em novas abas, junto com seus brasões.
-Teste de Hiperlinks (HTML):
+:collision:Teste de Hiperlinks (HTML):
 
 Realizei testes com hiperlinks para garantir uma navegação suave no site.
-Curriculum (HTML com Form):
+:collision:Curriculum (HTML com Form):
 
 Criei um modelo de currículo utilizando formulários em HTML.
-Testes com Bootstrap:
+:collision:Testes com Bootstrap:
 
 Explorei as funcionalidades do Bootstrap, testando diferentes componentes e estilos.
-Perfil Pessoal (Bootstrap):
+:collision:Perfil Pessoal (Bootstrap):
 
 Desenvolvi um modelo de perfil pessoal usando o framework Bootstrap.
-Site de Episódios do Mortal Kombat Legacy (HTML e CSS):
+:collision:Site de Episódios do Mortal Kombat Legacy (HTML e CSS):
 
 Utilizei todo o conhecimento adquirido até o momento para criar um site dedicado aos episódios do Mortal Kombat Legacy, incorporando elementos de HTML e CSS para uma experiência visual atraente.
-## 2. Instruções e Observações
-
-Tabuleiro de Damas:
-
-Desenvolvi um tabuleiro de damas usando apenas HTML para demonstrar habilidades de estruturação.
-Tabela do Brasileirão:
-
-Criei uma tabela com informações detalhadas sobre os times das séries A e B.
-Hiperlinks e Navegação:
-
-Testei hiperlinks para garantir uma experiência de usuário fluida e intuitiva.
-Bootstrap:
-
-Explorei os recursos do Bootstrap para criar interfaces responsivas e atraentes.
-Site Mortal Kombat Legacy:
-
-Utilizei HTML e CSS para criar um site interativo e visualmente atraente dedicado aos episódios do Mortal Kombat Legacy.
 
 # Como Usar HTML, CSS e Bootstrap no Visual Studio Code
 
